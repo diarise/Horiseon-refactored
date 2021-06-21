@@ -16,3 +16,7 @@ This project is a challenge: the task was to refactored the site, rewrite the HT
 1. Clean up the CSS file
 2. Some classes were rewritten
 3. All duplicated code removed and combine
+
+## GitHub link
+
+[GitHub](https://github.com/diarise/Horiseon-refactored.git)
