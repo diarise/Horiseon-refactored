@@ -19,5 +19,9 @@ This project is a challenge: the task was to refactored the site, rewrite the HT
 
 ## GitHub link
 
-[GitHub repository](https://github.com/diarise/Horiseon-refactored.git)
-[page link](https://diarise.github.io/Horiseon-refactored/)
+[GitHub Repository](https://github.com/diarise/Horiseon-refactored.git)
+[Page Link](https://diarise.github.io/Horiseon-refactored/)
+
+## Website Preview
+
+![Screenshot](screenshot.png)
